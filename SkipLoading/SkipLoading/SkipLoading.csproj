@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Liviu - Stefan Petroaia</Authors>
+    <Company>SkipLoading</Company>
+    <Description>A small collection of usefull stuff</Description>
+    <PackageId>SkipLoading.Library</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>skiploading, utils</PackageTags>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>Just an update test</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\bin\Debug\netstandard2.0\SkipLoading.deps.json
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\bin\Debug\netstandard2.0\SkipLoading.dll
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\bin\Debug\netstandard2.0\SkipLoading.pdb
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\obj\Debug\netstandard2.0\SkipLoading.csprojAssemblyReference.cache
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\obj\Debug\netstandard2.0\SkipLoading.AssemblyInfoInputs.cache
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\obj\Debug\netstandard2.0\SkipLoading.AssemblyInfo.cs
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\obj\Debug\netstandard2.0\SkipLoading.dll
+C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\obj\Debug\netstandard2.0\SkipLoading.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SkipLoading.Library</id>
+    <version>1.0.0</version>
+    <authors>Liviu - Stefan Petroaia</authors>
+    <owners>Liviu - Stefan Petroaia</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>A small collection of usefull stuff</description>
+    <tags>skiploading, utils</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\prod\MyProject\SkipLoadingCore\SkipLoading\SkipLoading\bin\Debug\netstandard2.0\SkipLoading.dll" target="lib\netstandard2.0\SkipLoading.dll" />
+  </files>
+</package>
